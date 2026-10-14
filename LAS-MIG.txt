@@ -1,0 +1,26 @@
+SOFIA RITAR – NY WEBBDESIGN
+
+Starta genom att öppna index.html. Alla 21 sidor använder relativa länkar och fungerar även som lokala filer. Bilder, film, typsnitt, stilmall och javascript ligger med i paketet. Ladda upp hela innehållet i denna mapp, inte bara index.html.
+
+GITHUB PAGES
+Ladda upp alla filer/mappar i ett repository. Under Settings > Pages väljer du publicering från main och /(root). Ingen installation eller byggprocess behövs. Startsidan heter index.html.
+
+INNEHÅLL
+Start, projektöversikt, åtta projektsidor, Om, Kontakt, FAQ, Bygglovsguide, bloggöversikt och sex artikelsidor. Artiklarna är sammanfattade och länkar till sina fullständiga original. Fotografier, ritningar, visualiseringar och filmen kommer från Sofias nuvarande webbplats. Bildernas ursprung finns i assets/provenance.json. Inga kundomdömen har hittats som kunnat verifieras; inga betyg eller citat har därför lagts till.
+
+KONTAKT OCH GUIDE
+Telefonknappar öppnar +46 73 058 92 08. Mejllänkar öppnar arkitekt@sofiaritar.se. Inget kontaktformulär eller server behövs. Guidens köpknapp går till den befintliga Stripe-länken från Sofia Ritar. Ingen betalning har genomförts vid testningen. Ägaren bör kontrollera pris och köplänk före publicering.
+
+SEO OCH PUBLICERING
+Unika sidtitlar och beskrivningar, svenska språkmarkeringar, en huvudrubrik per sida, bildtexter, internlänkar, sitemap.xml, robots.txt och strukturerade företagsuppgifter finns med. Kanoniska adresser, sitemap och delningsbilder är förberedda för https://www.sofiaritar.se/ och de befintliga sidornas adressnamn.
+
+Innan sidan blir den nya offentliga webbplatsen: kontrollera företagsuppgifter och alla texter med Sofia; säkra godkännande för bilderna; testa telefon, mejl och köplänk. Säkerhetskopiera den befintliga hemsidan. Om den nya webbplatsen ska ha en annan permanent domän måste canonical, og:url, og:image, schema och sitemap/robots uppdateras till den adressen. En tillfällig GitHub-förhandsvisning bör ha noindex. Publicera inte två indexerbara kopior. Den befintliga hemsidan har inte ändrats.
+
+Efter publicering: kontrollera HTTPS och omdirigeringar, skicka sitemap till Google Search Console och be om indexering. SEO-förberedelser innebär inte någon garanti för en viss ranking.
+
+PRESTANDA
+Bilderna finns som lokala WebP-filer i två storlekar. Innehåll längre ner laddas vid behov, med angivna bildmått. Filmen är komprimerad och laddas först när besökaren väljer att spela. Typsnitt är lokala. Webbplatsen har inga spårningsskript eller externa ramverk och använder ingen databas.
+
+Tillgänglighet: tangentbordsmeny, synliga fokusmarkeringar, innehållslänk, semantiska rubriker, fungerande bildlänkar utan JavaScript och stöd för minskad rörelse.
+
+Underlag kontrollerat 14 oktober 2026: https://www.sofiaritar.se/
